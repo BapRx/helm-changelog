@@ -2,7 +2,7 @@ module github.com/mogensen/helm-changelog
 
 go 1.21
 
-toolchain go1.24.0
+toolchain go1.24.1
 
 require (
 	github.com/Masterminds/sprig/v3 v3.3.0
